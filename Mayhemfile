@@ -15,3 +15,5 @@ cmds:
       url: tcp://localhost:80
       timeout: 2
       is_client: false
+corpus:
+ - file://mayhem/corpus
